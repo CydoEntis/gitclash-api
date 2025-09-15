@@ -1,0 +1,6 @@
+@GitClash_HostAddress = http://localhost:5226
+
+GET {{GitClash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
